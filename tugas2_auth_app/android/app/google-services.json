@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459424524418",
+    "project_id": "auth-app-45b17",
+    "storage_bucket": "auth-app-45b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459424524418:android:b520da8d9429a2ab17ac9b",
+        "android_client_info": {
+          "package_name": "com.example.tugas2_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459424524418-o4i8e4910phq05mmg7730dim60sjkvi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmd0v4oPcgkg-M1eTFT1o4riEUfjek_u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459424524418-o4i8e4910phq05mmg7730dim60sjkvi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
